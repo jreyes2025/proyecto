@@ -1,0 +1,1 @@
+{"schemaVersion":2,"mediaType":"application/vnd.oci.image.index.v1+json","manifests":[{"mediaType":"application/vnd.oci.image.index.v1+json","digest":"sha256:b90abb7640d6adf19645d6f0307adb83e62c9417478d56aabcbf0821b288601a","size":856,"annotations":{"io.containerd.image.name":"docker.io/library/e2a-demo-bot:2.0.0","org.opencontainers.image.ref.name":"2.0.0"}}]}
